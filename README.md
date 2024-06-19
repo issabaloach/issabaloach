@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Issaa</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Issa</h1>
 <h3 align="center">A Passionate Frontend Developer From Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=issabaloach&label=Profile%20views&color=0e75b6&style=flat" alt="issabaloach" /> </p>
