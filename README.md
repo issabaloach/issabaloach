@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm Muhammad Issa</h1>
-<h3 align="center">🚀 Frontend Developer | Learner of All Things Web</h3>
+<h3 align="center">🚀 Frontend Developer | Learner of All Things </h3>
 <p align="center">
   <a href="https://github.com/issabaloach">
     <img src="https://komarev.com/ghpvc/?username=issabaloach&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
