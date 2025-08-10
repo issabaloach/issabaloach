@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me  
 - 🔭 Currently working with **Next.js**  
-- 🌱 Learning **Backend Development** to become Full-Stack  
+- 🌱 Learning **Backend Development** 
 - 📫 Reach me at: **muhammadissabaloach@gmail.com**  
 
 ---
