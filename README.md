@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=issabaloach&label=Profile%20views&color=0e75b6&style=flat" alt="issabaloach" /> </p>
 
-- 🔭 I’m currently working on [React](https://github.com/issabaloach/JavaScript-)  
+- 🔭 I’m currently working on [Nextjs](https://github.com/issabaloach/JavaScript-)  
 
-- 🌱 I’m currently learning **NextJS, MongoDB, Backend Development**
+- 🌱 I’m currently learning ** Backend Development**
 
-- 📫 How to reach me **issabaloach03@gmail.com**
+- 📫 How to reach me **muhammadissabaloach@gmail.com**
 
 <h3 align="left">Connect with Me:</h3>
 
