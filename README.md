@@ -71,7 +71,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=issabaloach&theme=tokyonight&layout=compact&hide_border=true" />
 </p>
-
----
-
-💡 *"Code is like humor. When you have to explain it, it’s bad."*  
