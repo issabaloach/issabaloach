@@ -36,27 +36,13 @@ I specialize in **modern full-stack development** with strong emphasis on backen
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-
-JavaScript • TypeScript • Python • Java • C
-
-### 🎨 Frontend
-
-React • Next.js • Angular • Tailwind CSS • HTML • CSS
-
-### ⚙️ Backend
-
-Node.js • Express.js • Nest.js
-
-### 🗄 Databases
-
-MongoDB • MySQL • Microsoft SQL Server
-
-### 🧰 Tools & DevOps
-
-Git • GitHub • Docker • Postman
-
----
+<p align="center">
+💻 JavaScript • TypeScript • Python • Java • C &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+🎨 React • Next.js • Angular • Tailwind &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+⚙️ Node.js • Express • Nest.js &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+🗄 MongoDB • MySQL • SQL Server &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+🧰 Git • Docker • Postman
+</p>
 
 ## 🔥 Featured Work
 
