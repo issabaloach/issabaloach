@@ -76,7 +76,6 @@ Here are some of the key production-grade systems I've architected:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=issabaloach&theme=tokyonight&hide_border=true&stroke=0000" alt="GitHub Streak" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=issabaloach&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
