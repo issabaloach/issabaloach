@@ -71,15 +71,6 @@ Here are some of the key production-grade systems I've architected:
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=issabaloach&theme=tokyonight&hide_border=true&stroke=0000" alt="GitHub Streak" />
-  &nbsp;&nbsp;
-</div>
-
-<br/>
-
 ## 🌐 Let's Connect
 
 <p align="center">
